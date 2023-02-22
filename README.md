@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sivakumar-123
-- 👀 I’m interested in codding
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning c language
 - 💞️ I’m looking to collaborate on top companies like google and microsoft to do the top project of the companies 
 - 📫 How to reach me ...
